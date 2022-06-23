@@ -25,7 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:qlin@rockefeller.edu"}
   - {title: Github, icon: github, url: "https://github.com/LIN-Qian"}
-  - {title: Twitter, icon: Twitter, url: "https://twitter.com/neuro_LinQian"}
+  - {title: Twitter, icon: 'fa-twitter-square', url: "https://twitter.com/neuro_LinQian"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
